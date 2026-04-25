@@ -1,0 +1,24 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+streamlit
+langchain
+langchain-community
+langchain-groq
+chromadb
+sentence-transformers
+pypdf
+PyPDF2
+pymupdf
+python-dotenv
+langchain-huggingface
+selenium
+webdriver-manager
+beautifulsoup4
+pandas
+tqdm
+requests
+scikit-learn
+torch
+torchvision
+transformers
+shap
+protobuf==3.20.3
